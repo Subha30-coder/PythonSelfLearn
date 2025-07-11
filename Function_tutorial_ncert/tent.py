@@ -1,4 +1,4 @@
-"""Make prog to take dimensioins as
+"""Make programm to take dimensioins as
 input from user & output length of fabric
 required and total payable amount"""
 
@@ -8,7 +8,6 @@ print("Enter dimension of Tent(in meter):---")
 h=float(input("Enter the height of tent:"))
 r = float(input("Enter the radius of the tent:"))
 s=float(input("Enter the slant height of tent:"))
-
 
 #define Constant Pi=3.14
 pi=3.14
@@ -33,7 +32,17 @@ Total_cost=(l*p)+118/100
 print("The total cost to be paid(with 18 1percent GST):",Total_cost)
 
 
-"""Another way of doing so in organised Modular programming way using Functions"""
+
+
+
+
+
+
+
+
+
+
+
 
 
 
