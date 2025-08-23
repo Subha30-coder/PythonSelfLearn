@@ -28,8 +28,9 @@ w=float(input("Enter width of fabric:"))
 l=(Total_Area/w)
 print("Length of the fabric required:",l)
 p=int(input("Enter price per meter lentgth of fabric:"))
-Total_cost=(l*p)+118/100
+Total_cost=(l*p)+118/100     #18 percent GST added
 print("The total cost to be paid(with 18 1percent GST):",Total_cost)
+
 
 
 
